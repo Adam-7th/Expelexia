@@ -1,5 +1,5 @@
 // Use Render backend only
-const API_BASE = 'http://localhost:8000/api';
+const API_BASE = 'https://backend-update-1-uloa.onrender.com/api';
 let activeApiBase = API_BASE;
 
 const FILE_HISTORY_KEY = 'expelexia-file-history';
