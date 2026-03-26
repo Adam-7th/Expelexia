@@ -73,7 +73,7 @@ data/
     reports/
     temp/
 docs/
-    demo_plan.md
+    presentation file and video link
 frontend/
     components/
     pages/
@@ -239,7 +239,7 @@ All sensitive credentials are stored securely using environment variables and ar
 
 
 ## Team Information
-
+""Our team, NeuraForge, brings together highly skilled and diverse professionals with a strong background in AI, cloud computing, full-stack development, and data analytics. Each member has hands-on experience from internships, research, and projects in both academic and professional settings. Our combined technical proficiency, logical problem-solving, and collaborative mindset make us capable of solving complex AI challenges effectively. We are committed to delivering innovative solutions during the challenge.""
 ### Team Members
 
 #### Henok Tariku
@@ -249,13 +249,12 @@ All sensitive credentials are stored securely using environment variables and ar
   - MIPT (Computer Science, Nov 2025 - Present)
   - University of the People (Computer Science, Dec 2023 - Jan 2026, CGPA 3.95)
 - **Focus**: Practical software engineering, API integrations, and reliable production rollouts.
-- **Location**: Russia
 - **LinkedIn**: [Henok Tariku](https://www.linkedin.com/in/henok-tariku1012/)
 
 #### Rocio Herrera
 - **Role**: Cybersecurity & AI Enthusiast
 - **Skills**: Cybersecurity, Artificial Intelligence, Problem Solving, Data Analysis, Risk Assessment
-- **Languages**: Bilingual (English/Spanish)
+- **Location**: USA
 
 
 ## Built for Microsoft Hackathon
