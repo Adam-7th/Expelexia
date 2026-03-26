@@ -2,7 +2,6 @@
 
 Expelexia Lab is an AI-powered data analysis platform designed to automatically analyze data and generate intelligent, human-friendly recommendations to support better decision-making.
 
----
 
 ## Why Expelexia Lab
 
@@ -11,7 +10,6 @@ Expelexia Lab is an AI-powered data analysis platform designed to automatically 
 - Produces professional PDF reports with actionable recommendations.
 - Supports better decision-making through explainable, human-readable outputs.
 
----
 
 ## Core Capabilities
 
@@ -21,7 +19,6 @@ Expelexia Lab is an AI-powered data analysis platform designed to automatically 
 - **Dashboard Data API**: Supplies data for front-end charts and summary views.
 - **Report Generation**: Creates polished PDF reports.
 
----
 
 ## Tech Stack
 
@@ -40,7 +37,6 @@ Expelexia Lab is an AI-powered data analysis platform designed to automatically 
 - Azure Cognitive Services
 - Azure Storage
 
----
 
 ## Project Structure
 
@@ -86,7 +82,6 @@ frontend/
     utils/
 ```
 
----
 
 ### Ignored Files
 
@@ -98,7 +93,6 @@ The following files and directories are excluded from version control:
 - `.next/`: Build artifacts for Next.js.
 - `__pycache__/`: Python cache files.
 
----
 
 ## Setup Instructions
 
@@ -130,7 +124,6 @@ The following files and directories are excluded from version control:
    - Backend: `uvicorn main:app --reload`
    - Frontend: `npm run dev`
 
----
 
 ## Notes
 
@@ -138,7 +131,6 @@ The following files and directories are excluded from version control:
 - Replace `.env` files with appropriate environment variables.
 - Large files (e.g., `.venv`, `node_modules`) are excluded to reduce repository size.
 
----
 
 ## Quick Start
 
@@ -176,7 +168,6 @@ npm run dev
 
 The frontend is accessible at `http://localhost:3000`. The backend is accessible locally at `http://127.0.0.1:8000`.
 
----
 
 ## Hosted Backend
 
@@ -185,7 +176,6 @@ The backend API is also hosted on Render and can be accessed at:
 
 You can use the hosted backend for testing or switch to the local setup as needed.
 
----
 
 ## API Endpoints (Common)
 
@@ -193,9 +183,8 @@ You can use the hosted backend for testing or switch to the local setup as neede
 - `POST /api/analyze?file_name=<name>`
 - `GET /api/report?file_name=<name>`
 - `GET /api/report/<name>`
-- `GET /api/dashboard/<name>`
+  
 
----
 
 ## Environment Variables (Secure Setup)
 
@@ -216,7 +205,6 @@ AZURE_STORAGE_ACCOUNT_KEY=your_storage_key
 AZURE_CONTAINER_NAME=User_container
 ```
 
----
 
 ## Important Security Notes
 
@@ -225,7 +213,6 @@ AZURE_CONTAINER_NAME=User_container
 - Regenerate keys immediately if exposure occurs.
 - Use Azure Key Vault for production secret management.
 
----
 
 ## Security Best Practices
 
@@ -236,7 +223,6 @@ All sensitive credentials are stored securely using environment variables and ar
 - Sensitive configuration is excluded by `.gitignore`.
 - Azure service credentials are treated as private runtime secrets.
 
----
 
 ## Future Security Enhancements
 
@@ -244,7 +230,6 @@ All sensitive credentials are stored securely using environment variables and ar
 - Token-based authentication for API access.
 - Role-based access control for dashboard/report operations.
 
----
 
 ## Hackathon Readiness
 
@@ -252,7 +237,6 @@ All sensitive credentials are stored securely using environment variables and ar
 - Production-aware documentation and secure environment handling.
 - AI-driven value: actionable recommendations, not just raw analytics.
 
----
 
 ## Team Information
 
@@ -273,7 +257,6 @@ All sensitive credentials are stored securely using environment variables and ar
 - **Skills**: Cybersecurity, Artificial Intelligence, Problem Solving, Data Analysis, Risk Assessment
 - **Languages**: Bilingual (English/Spanish)
 
----
 
 ## Built for Microsoft Hackathon
 
@@ -286,7 +269,6 @@ All sensitive credentials are stored securely using environment variables and ar
 - Modular architecture for fast expansion.
 - Research-first user experience.
 
----
 
 ## Project Website
 
