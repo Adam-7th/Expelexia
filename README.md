@@ -196,12 +196,12 @@ AZURE_OPENAI_KEY=your_api_key_here
 AZURE_OPENAI_ENDPOINT=User_endpoint_here
 
 # Azure Cognitive Services
-AZURE_COGNITIVE_KEY=your_key_here
+AZURE_COGNITIVE_KEY=User_key_here
 AZURE_COGNITIVE_ENDPOINT=User_endpoint_here
 
 # Azure Storage
-AZURE_STORAGE_ACCOUNT_NAME=your_storage_account
-AZURE_STORAGE_ACCOUNT_KEY=your_storage_key
+AZURE_STORAGE_ACCOUNT_NAME=User_storage_account
+AZURE_STORAGE_ACCOUNT_KEY=User_storage_key
 AZURE_CONTAINER_NAME=User_container
 ```
 
@@ -273,7 +273,7 @@ All sensitive credentials are stored securely using environment variables and ar
 ## Project Website
 
 The Expelexia Lab project website is live and accessible at:
-[Expelexia AI Lab](https://expelexia-ai-lab.netlify.app/)
+[Expelexia AI Lab](https://expelexialab.netlify.app/)
 
 This website provides an interactive interface for users to explore the features of Expelexia Lab, including:
 
