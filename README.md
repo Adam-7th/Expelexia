@@ -239,7 +239,7 @@ All sensitive credentials are stored securely using environment variables and ar
 
 
 ## Team Information
-""Our team, NeuraForge, brings together highly skilled and diverse professionals with a strong background in AI, cloud computing, full-stack development, and data analytics. Each member has hands-on experience from internships, research, and projects in both academic and professional settings. Our combined technical proficiency, logical problem-solving, and collaborative mindset make us capable of solving complex AI challenges effectively. We are committed to delivering innovative solutions during the challenge.""
+Our team, NeuraForge, brings together highly skilled and diverse professionals with a strong background in AI, cloud computing, full-stack development, and data analytics. Each member has hands-on experience from internships, research, and projects in both academic and professional settings. Our combined technical proficiency, logical problem-solving, and collaborative mindset make us capable of solving complex AI challenges effectively. We are committed to delivering innovative solutions during the challenge.
 ### Team Members
 
 #### Henok Tariku
