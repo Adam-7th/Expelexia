@@ -192,7 +192,7 @@ Create a `.env` file inside `backend/` using `backend/.env.example` as a templat
 
 ```dotenv
 # Azure OpenAI
-AZURE_OPENAI_KEY=your_api_key_here
+AZURE_OPENAI_KEY=User_api_key_here
 AZURE_OPENAI_ENDPOINT=User_endpoint_here
 
 # Azure Cognitive Services
@@ -250,11 +250,11 @@ All sensitive credentials are stored securely using environment variables and ar
   - University of the People (Computer Science, Dec 2023 - Jan 2026, CGPA 3.95)
 - **Focus**: Practical software engineering, API integrations, and reliable production rollouts.
 - **LinkedIn**: [Henok Tariku](https://www.linkedin.com/in/henok-tariku1012/)
-
+- **Location**: Russia,Moscow
 #### Rocio Herrera
 - **Role**: Cybersecurity & AI Enthusiast
 - **Skills**: Cybersecurity, Artificial Intelligence, Problem Solving, Data Analysis, Risk Assessment
-- **Location**: USA
+- **Location**: USA,LA
 
 
 ## Built for Microsoft Hackathon
