@@ -1,0 +1,35 @@
+{
+  "stats": {
+    "temp": {
+      "count": 97606.0,
+      "mean": 35.05393111079237,
+      "std": 5.699825337585305,
+      "min": 21.0,
+      "25%": 30.0,
+      "50%": 35.0,
+      "75%": 40.0,
+      "max": 51.0
+    }
+  },
+  "correlations": {},
+  "metadata": {
+    "rows": 97606,
+    "columns": 5,
+    "missing_values": {
+      "temp": 0
+    },
+    "anomalies_detected": {
+      "temp": 0
+    }
+  },
+  "focus_areas": {
+    "temp": "high variance"
+  },
+  "confidence": {
+    "temp": 1.0
+  },
+  "trends": {
+    "temp": "down"
+  },
+  "protocol_text": ""
+}

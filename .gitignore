@@ -1,0 +1,24 @@
+# Environment files (secrets)
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Python environments
+.venv/
+venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# JavaScript / Next.js
+node_modules/
+.next/
+
+# Common local env names
+*.env
+
+# Logs
+*.log

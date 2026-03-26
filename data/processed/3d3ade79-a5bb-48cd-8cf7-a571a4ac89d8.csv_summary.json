@@ -1,0 +1,59 @@
+{
+  "stats": {
+    "_id": {
+      "count": 26387.0,
+      "mean": 13194.0,
+      "std": 7617.415112753144,
+      "min": 1.0,
+      "25%": 6597.5,
+      "50%": 13194.0,
+      "75%": 19790.5,
+      "max": 26387.0
+    },
+    "val": {
+      "count": 26387.0,
+      "mean": 11.062840034865655,
+      "std": 8.93472820702432,
+      "min": -40.0,
+      "25%": 4.52,
+      "50%": 9.35,
+      "75%": 17.74,
+      "max": 36.45
+    }
+  },
+  "correlations": {
+    "_id": {
+      "_id": 1.0,
+      "val": -0.08667547001454289
+    },
+    "val": {
+      "_id": -0.08667547001454289,
+      "val": 1.0
+    }
+  },
+  "metadata": {
+    "rows": 26387,
+    "columns": 3,
+    "missing_values": {
+      "_id": 0,
+      "val": 0
+    },
+    "anomalies_detected": {
+      "_id": 0,
+      "val": 95
+    }
+  },
+  "focus_areas": {
+    "_id": "high variance",
+    "val": "95 anomalies, high variance"
+  },
+  "confidence": {
+    "_id": 1.0,
+    "val": 1.0
+  },
+  "trends": {
+    "_id": "up",
+    "val": "down"
+  },
+  "protocol_text": ""
+}

@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#__next {
+  margin: 0;
+  min-height: 100%;
+  font-family: Inter, Roboto, system-ui, -apple-system, Segoe UI, sans-serif;
+}
+
+body {
+  @apply bg-mesh-light text-gray-900 antialiased dark:bg-mesh-dark dark:text-gray-100;
+}
+
+::selection {
+  background: rgba(10, 132, 255, 0.22);
+}
+
+.card {
+  @apply relative overflow-hidden rounded-2xl border border-white/60 bg-white/80 p-5 shadow-card backdrop-blur-md transition-all duration-300 dark:border-slate-700/70 dark:bg-slate-900/70;
+  transform-style: preserve-3d;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(125deg, rgba(255, 255, 255, 0.56), rgba(255, 255, 255, 0));
+  pointer-events: none;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 24px 60px rgba(2, 12, 27, 0.12);
+}
+
+.section-title {
+  @apply mb-3 text-xl font-semibold tracking-tight;
+  letter-spacing: -0.015em;
+}
+
+.section-subtitle {
+  @apply text-sm text-gray-600 dark:text-gray-300;
+}
+
+a[class*='rounded-lg'],
+button[class*='rounded-lg'] {
+  transition: transform 220ms ease, box-shadow 220ms ease, opacity 220ms ease;
+}
+
+a[class*='rounded-lg']:hover,
+button[class*='rounded-lg']:hover {
+  transform: translateY(-1px);
+}
+
+.dark .card::before {
+  background: linear-gradient(125deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0));
+}
+
+select {
+  background-color: #ffffff;
+  color: #111827;
+}
+
+select option {
+  background-color: #ffffff;
+  color: #111827;
+}
+
+.dark select {
+  background-color: #ffffff;
+  color: #111827;
+  border-color: #4b5563;
+}
+
+.dark select option {
+  background-color: #ffffff;
+  color: #111827;
+}
