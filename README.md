@@ -267,16 +267,9 @@ Our team, NeuraForge, brings together highly skilled and diverse professionals w
 - Clear and auditable next-step reasoning.
 - Modular architecture for fast expansion.
 - Research-first user experience.
-## Video Presentation
+## Presentation
 
-This video presentation showcases our project for the AI Innovation Challenge 2026, organized by Microsoft.
-
-## Video Parts
-
-Part 1: https://youtu.be/V1Q58-B9So8
-Part 2: https://www.youtube.com/watch?v=FOWmYaab1_M
-
-The video explains the problem, our solution, key features, and the overall impact of the project.
+This presentation showcases our project for the AI Innovation Challenge 2026, organized by Microsoft.
 
 
 ## Project Website
