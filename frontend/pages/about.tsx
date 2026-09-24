@@ -193,12 +193,11 @@ export default function AboutPage() {
             />
             <h3 className="text-lg font-bold mb-1">Henok Tariku</h3>
             <p className="text-sm font-semibold text-gray-700 dark:text-gray-200 mb-1">Junior Data Analyst &amp; Software Engineer</p>
-            <p className="text-xs text-gray-700 dark:text-gray-200 mb-2">Financial Engineering Master's student at WorldQuant University. Strong Computer Science background. Focused on practical software engineering, API integrations, and reliable production rollouts.</p>
+            <p className="text-xs text-gray-700 dark:text-gray-200 mb-2">Strong Computer Science background. Focused on practical software engineering, API integrations, and reliable production rollouts.</p>
             <div className="text-xs text-gray-700 dark:text-gray-200 mb-1">
               <b>Universities:</b>
               <ul className="list-disc ml-4 text-left">
-                <li>WorldQuant University (Financial Engineering, Feb 2026 - Present)</li>
-                <li>MIPT (Computer Science, Nov 2025 - Present)</li>
+                <li>MIPT (Phystech School of Applied Mathematics and Informatics (FPMI), Nov 2025 - Present)</li>
                 <li>University of the People (Computer Science, Dec 2023 - Jan 2026, CGPA 3.95)</li>
               </ul>
             </div>
