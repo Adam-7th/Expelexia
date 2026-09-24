@@ -245,8 +245,7 @@ Our team, NeuraForge, brings together highly skilled and diverse professionals w
 #### Henok Tariku
 - **Role**: Junior Data Analyst & Software Engineer
 - **Education**:
-  - WorldQuant University (Financial Engineering, Feb 2026 - Present)
-  - MIPT (Computer Science, Nov 2025 - Present)
+  - MIPT (Phystech School of Applied Mathematics and Informatics (FPMI), Nov 2025 - Present)
   - University of the People (Computer Science, Dec 2023 - Jan 2026, CGPA 3.95)
 - **Focus**: Practical software engineering, API integrations, and reliable production rollouts.
 - **LinkedIn**: [Henok Tariku](https://www.linkedin.com/in/henok-tariku1012/)
@@ -272,12 +271,7 @@ Our team, NeuraForge, brings together highly skilled and diverse professionals w
 This presentation showcases our project for the AI Innovation Challenge 2026, organized by Microsoft.
 
 
-## Project Website
 
-The Expelexia Lab project website is live and accessible at:
-[Expelexia AI Lab](https://expelexialab.netlify.app/)
-
-This website provides an interactive interface for users to explore the features of Expelexia Lab, including:
 
 - Uploading and analyzing data files.
 - Generating AI-driven insights and reports.
